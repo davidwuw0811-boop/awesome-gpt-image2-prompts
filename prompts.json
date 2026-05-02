@@ -6368,5 +6368,57 @@
     "source": "open-design",
     "needs_ref": false,
     "image": "images/490.jpg"
+  },
+  {
+    "id": 491,
+    "title_en": "Yan Fei - Scholar Warrior Portrait",
+    "title_cn": "燕飞 - 山海传说角色定帧",
+    "category": "character-portrait",
+    "category_cn": "角色肖像",
+    "prompt": "A majestic cinematic portrait of Yan Fei from \"Legend of the Frontier\". He is sitting on a minimalist stone throne. Behind him is a colossal, ethereal crystalline sword (Die Lian Hua) glowing with a faint blue spiritual aura. The background is a clean, misty grey void. He has long flowing hair, wears a simple cyan scholar-warrior robe, and looks calm yet sharp. 8k resolution, zen aesthetic, elegant lighting. ar 9:16",
+    "note": "山海传说（Legend of the Frontier）角色定帧图，燕飞，老板原创",
+    "author": "老板原创",
+    "source": "original",
+    "needs_ref": false,
+    "image": "images/491.jpg"
+  },
+  {
+    "id": 492,
+    "title_en": "Ji Qianqian - Beauty of Southern Dynasties",
+    "title_cn": "纪千千 - 山海传说角色定帧",
+    "category": "character-portrait",
+    "category_cn": "角色肖像",
+    "prompt": "A breathtakingly beautiful cinematic portrait of Ji Qianqian, the most legendary beauty of the Southern Dynasties. She is seated gracefully on a delicate, carved white jade throne. Behind her is a colossal, ethereal structure of stylized silk ribbons and floating Guqin keys, glowing with a soft, warm moonlight aura. Her features are ethereal and flawless, with porcelain skin and gentle, intelligent eyes. She wears a multi-layered, flowing silk gown in pale lavender and soft white, with intricate, subtle embroidery of plum blossoms. The background is a stark, clean, misty white void, emphasizing her isolated beauty. Soft, volumetric lighting, masterpiece, 8k, hyper-realistic but with a painterly touch.",
+    "note": "山海传说（Legend of the Frontier）角色定帧图，纪千千，老板原创",
+    "author": "老板原创",
+    "source": "original",
+    "needs_ref": false,
+    "image": "images/492.jpg"
+  },
+  {
+    "id": 493,
+    "title_en": "Liu Yu - The Future Emperor",
+    "title_cn": "刘裕 - 山海传说角色定帧",
+    "category": "character-portrait",
+    "category_cn": "角色肖像",
+    "prompt": "A powerful portrait of Liu Yu, the future emperor. He sits on a heavy iron throne. Behind him is a giant, weathered bronze shield with dragon engravings, towering like a wall. The background is a clean, stark white. He wears intricate dark leather armor with a crimson cloak. His expression is resolute and ambitious. High contrast, epic scale, hyper-realistic textures.",
+    "note": "山海传说（Legend of the Frontier）角色定帧图，刘裕，老板原创",
+    "author": "老板原创",
+    "source": "original",
+    "needs_ref": false,
+    "image": "images/493.jpg"
+  },
+  {
+    "id": 494,
+    "title_en": "Tuoba Gui - Northern Wei Founder",
+    "title_cn": "拓跋珪 - 山海传说角色定帧",
+    "category": "character-portrait",
+    "category_cn": "角色肖像",
+    "prompt": "A dominant portrait of Tuoba Gui, the Northern Wei founder. He sits on a throne made of dark basalt. Behind him is a colossal, intimidating stone sculpture of a howling wolf head, symbolizing his tribal roots. The background is a clean, cold charcoal grey. He is dressed in heavy fur-lined dark armor with gold accents. Harsh lighting, sharp features, a sense of ruthless power.",
+    "note": "山海传说（Legend of the Frontier）角色定帧图，拓跋珪，老板原创",
+    "author": "老板原创",
+    "source": "original",
+    "needs_ref": false,
+    "image": "images/494.jpg"
   }
 ]
