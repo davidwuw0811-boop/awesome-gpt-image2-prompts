@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=davidwuw0811-boop&project=awesome-gpt-image2-prompts&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # GPT Image 2 提示词大全
 
 > 一个精心整理的 **GPT Image 2** 提示词集合，包含 **494 条** 精选提示词，支持中英文搜索、分类筛选、一键复制。
