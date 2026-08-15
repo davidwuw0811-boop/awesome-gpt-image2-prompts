@@ -62,6 +62,7 @@
 
 - [GitHub 仓库](https://github.com/davidwuw0811-boop/awesome-gpt-image2-prompts)
 - [在线访问](https://davidwuw0811-boop.github.io/awesome-gpt-image2-prompts/)
+- [Eimu 在线生图](https://eimu.art) - 在线生成 GPT Image 2 / Nano Banana Pro 图片，无需中转站、无需申请 API Key，登录即用。
 - [itgoyo/awesome-gpt-image2](https://github.com/itgoyo/awesome-gpt-image2)
 - [moosl/awsome-gpt-image-2-prompts](https://github.com/moosl/awsome-gpt-image-2-prompts)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
