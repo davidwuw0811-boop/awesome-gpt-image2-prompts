@@ -65,6 +65,7 @@
 - [itgoyo/awesome-gpt-image2](https://github.com/itgoyo/awesome-gpt-image2)
 - [moosl/awsome-gpt-image-2-prompts](https://github.com/moosl/awsome-gpt-image-2-prompts)
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
 
 ## 📄 文件说明
 
